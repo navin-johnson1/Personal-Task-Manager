@@ -10,3 +10,5 @@ This application (built in Python), allows users to:
 5. Delete Task: You can delete a task of your choice
 
 There are defined functions for each task. There is a main menu which will be shown after each operation is done. The user can choose to do another operation or log out whenever they need to.
+
+Thank you for visiting!
